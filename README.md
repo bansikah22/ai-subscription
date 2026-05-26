@@ -1,0 +1,2 @@
+# ai-subscription
+AI Subscription
